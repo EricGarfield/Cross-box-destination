@@ -1,5 +1,6 @@
-# Cross-box-destination
-
+                                                    #Cross-box-destination 
+                                                    
+                                                    
 This application respects and protects the privacy of all users who use the service; in order to provide you with more accurate and personalized services, this application will use and disclose your personal information in accordance with this Privacy Policy; however, this application will Treat this information with a high degree of diligence and prudence; except as otherwise provided in this Privacy Policy, this application will not disclose or provide this information to third parties without your prior permission; this application will Update this Privacy Policy from time to time; By agreeing to this Application Services Use Agreement, you are deemed to have agreed to the entire content of this Privacy Policy; this Privacy Policy is an integral part of this Application Service Agreement;
 1. Scope of application
 a) keyword information that you enter when using the search service provided by this app; 
